@@ -1,8 +1,16 @@
-# esx_policejob
+# esx_toro_sheriff
+This is a fork of the resource esx_policejob. Check the original out, it might help you set a department in the city of Los Santos (At Mission Row). The intent behind making and publishing this is to save people the hassle of editing it themselves.
 
-This resource for ESX adds police armories, vehicle garages and ability for cops to search, handcuff people and much more.
+This resource for ESX adds sheriff armories, vehicle garages and ability for cops to search, handcuff people and much more. The resource places the department up in Paleto Bay, but you can move all the points to Sandy Shores if you want. 
+
+This resource is pretty straight fordward, so I'll provide only limited support. If I can't help you, the original developers of esx_policejob may be able to assist you in their issues section in GitHub or in the thread on the cfx.re forums.
+
+Good luck with your server.
 
 ### Requirements
+* Interior
+  * https://es.gta5-mods.com/maps/paleto-bay-sheriff-s-office-extended-sp-and-fivem-mlo
+
 * Auto mode
   * [esx_billing](https://github.com/ESX-Org/esx_billing)
   * [esx_vehicleshop](https://github.com/ESX-Org/esx_vehicleshop)
@@ -54,12 +62,16 @@ start esx_policejob
 
 # Legal
 ### License
-esx_policejob - police script for ESX
+esx_toro_sheriff was made by modifying this script:
 
-Copyright (C) 2015-2020 Jérémie N'gadi
+  esx_policejob - police script for ESX
 
-This program Is free software: you can redistribute it And/Or modify it under the terms Of the GNU General Public License As published by the Free Software Foundation, either version 3 Of the License, Or (at your option) any later version.
+  Copyright (C) 2015-2020 Jérémie N'gadi
 
-This program Is distributed In the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty Of MERCHANTABILITY Or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License For more details.
+  This program Is free software: you can redistribute it And/Or modify it under the terms Of the GNU General Public License As published by the Free Software Foundation, either version 3 Of the License, Or (at your option) any later version.
 
-You should have received a copy Of the GNU General Public License along with this program. If Not, see http://www.gnu.org/licenses/.
+  This program Is distributed In the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty Of MERCHANTABILITY Or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License For more details.
+
+  You should have received a copy Of the GNU General Public License along with this program. If Not, see http://www.gnu.org/licenses/.
+
+Therefore we adhere to the same licenses and conditions (Free software under GNU GPL)
